@@ -22,5 +22,6 @@
 |  8:30 PST / 17:30 CET | [Promoting Situational Awareness in Code Review Platforms](sessions/promoting-situational-awareness-in-code-review.md) |
 |  9:00 PST / 18:00 CET | [An introduction to the pull-replication plugin](sessions/pull-replication-plugin.md)                              |
 |  9:30 PST / 18:30 CET | [Overview of Gerrit in AWS](sessions/overview-of-gerrit-in-aws.md)                      |
-| 10:00 PST / 19:00 CET | Q&A with the maintainers (may include 1-2 polls)                                        |
+| 10:00 PDT / 19:00 CET | [Forward Gerrit events to Jenkins via AWS Kinesis](lightning-talks/forward-gerrit-events-to-jenkins-via-aws-kinesis.md) |
+| 10:10 PST / 19:10 CET | Q&A with the maintainers (may include 1-2 polls)                                        |
 | 11:00 PST / 20:00 CET | End of Day 2                                                                            |
