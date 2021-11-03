@@ -25,6 +25,6 @@
 |  9:00 PST / 18:00 CET | Session 6 - __available for proposals__ (may include 1 poll) |
 |  9:30 PST / 18:30 CET | Q&A with the maintainers (may include 1-2 polls)             |
 | 10:30 PST / 19:30 CET | Lightning talk 6 - __available for proposals__               |
-| 10:40 PDT / 19:40 CET | Lightning talk 7 - __available for proposals__               |
+| 10:40 PDT / 19:40 CET | [Forward Gerrit events to Jenkins via AWS Kinesis](lightning-talks/forward-gerrit-events-to-jenkins-via-aws-kinesis.md) |
 | 10:50 PDT / 19:50 CET | Final Q&A  (may include a final poll)                        |
 | 11:00 PDT / 20:00 CET | End of Day 2                                                 |
