@@ -21,3 +21,13 @@ analytics tools for Gerrit.
 He has extensive experience in working on backend systems, on-premise and
 cloud-based, with different programming languages, such as Scala, Java, NodeJS
 and related ecosystems.
+
+### Paul Jolly - CUE {#myitcv}
+
+[Twitter](https://twitter.com/_myitcv)
+
+Paul is a core contributor on the [CUE](https://cuelang.org/) project. He
+co-created [play-with-go.dev](https://play-with-go.dev), co-founded the [Go
+Tools Working Group](https://github.com/golang/go/wiki/golang-tools), is a
+regular contributor to the [Go](https://golang.org) project, and helps maintain
+various Go and CUE-based open source projects.
