@@ -18,6 +18,24 @@
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "1baa88cd_2f28e5b7",
+        "filename": "conduct-policy.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-07T22:03:34Z",
+      "side": 1,
+      "message": "Done.",
+      "parentUuid": "89aad085_4904d139",
+      "revId": "2a85f64238b634a21596bb473ed68ab0fff57b36",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "f85dfb55_ea5d45ea",
@@ -31,6 +49,30 @@
       "writtenOn": "2021-11-04T03:31:33Z",
       "side": 1,
       "message": "Missing word: \u0027\u0027...and ideas, and avoid the problems with the travelling restrictions due ...\u0027\u0027",
+      "range": {
+        "startLine": 13,
+        "startChar": 21,
+        "endLine": 13,
+        "endChar": 37
+      },
+      "revId": "2a85f64238b634a21596bb473ed68ab0fff57b36",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9b29fcda_f0d8a84a",
+        "filename": "index.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-07T22:03:34Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f85dfb55_ea5d45ea",
       "range": {
         "startLine": 13,
         "startChar": 21,
@@ -58,6 +100,24 @@
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "095f62df_c3a87d2e",
+        "filename": "index.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-07T22:03:34Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d9909aca_777be700",
+      "revId": "2a85f64238b634a21596bb473ed68ab0fff57b36",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "5747d47a_685953b9",
@@ -71,6 +131,24 @@
       "writtenOn": "2021-11-04T17:11:19Z",
       "side": 1,
       "message": "Nit: Weird wrapping.",
+      "revId": "2a85f64238b634a21596bb473ed68ab0fff57b36",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cae18467_f5e5ee9e",
+        "filename": "speakers.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-07T22:03:34Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5747d47a_685953b9",
       "revId": "2a85f64238b634a21596bb473ed68ab0fff57b36",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
@@ -94,6 +172,24 @@
     {
       "unresolved": false,
       "key": {
+        "uuid": "c0201cdd_82125cf7",
+        "filename": "speakers.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-07T22:03:34Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "eb0105b8_afa928ac",
+      "revId": "2a85f64238b634a21596bb473ed68ab0fff57b36",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
         "uuid": "9f17291a_7dfc6cfb",
         "filename": "speakers.md",
         "patchSetId": 6
@@ -105,6 +201,24 @@
       "writtenOn": "2021-11-03T08:35:52Z",
       "side": 1,
       "message": "nit:newline",
+      "revId": "2a85f64238b634a21596bb473ed68ab0fff57b36",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "16be0a6c_431cb8a2",
+        "filename": "speakers.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-07T22:03:34Z",
+      "side": 1,
+      "message": "Done.",
+      "parentUuid": "9f17291a_7dfc6cfb",
       "revId": "2a85f64238b634a21596bb473ed68ab0fff57b36",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
