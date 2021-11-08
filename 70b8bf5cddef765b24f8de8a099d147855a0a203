@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "406448a0_0aa17cb0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1054778
+      },
+      "writtenOn": "2021-11-08T08:19:36Z",
+      "side": 1,
+      "message": "Really interesting talk!\n\nI think you have to put your talk description into a new file named after your talk. See for example [1] [2]\n\n[1]: https://gerrit-review.googlesource.com/c/summit/2021/+/322778\n[2]: https://gerrit-review.googlesource.com/c/summit/2019/+/243953",
+      "revId": "70b8bf5cddef765b24f8de8a099d147855a0a203",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
