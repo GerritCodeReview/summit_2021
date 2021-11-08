@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d8784ec8_4d79f4d8",
+        "filename": "conduct-policy.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1014252
+      },
+      "writtenOn": "2021-11-08T09:56:49Z",
+      "side": 1,
+      "message": "Nit: (and I\u0027m not sure it matters but)\nShouldn\u0027t there be commas separating the subordinate clause?\n\n    This includes, but is not limited to,",
+      "range": {
+        "startLine": 5,
+        "startChar": 0,
+        "endLine": 5,
+        "endChar": 36
+      },
+      "revId": "de29ac18f06f6bf2aa918b96d2337f7f76be31eb",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
