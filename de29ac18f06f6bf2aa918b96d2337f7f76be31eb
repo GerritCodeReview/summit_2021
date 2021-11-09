@@ -3,6 +3,23 @@
     {
       "unresolved": false,
       "key": {
+        "uuid": "92775cc0_c249ce7e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1139611
+      },
+      "writtenOn": "2021-11-09T17:47:13Z",
+      "side": 1,
+      "message": "Only some minor nits 😊",
+      "revId": "de29ac18f06f6bf2aa918b96d2337f7f76be31eb",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
         "uuid": "d8784ec8_4d79f4d8",
         "filename": "conduct-policy.md",
         "patchSetId": 7
@@ -20,6 +37,98 @@
         "endLine": 5,
         "endChar": 36
       },
+      "revId": "de29ac18f06f6bf2aa918b96d2337f7f76be31eb",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "adaa91a2_53bd2a6f",
+        "filename": "conduct-policy.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1139611
+      },
+      "writtenOn": "2021-11-09T17:47:13Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "d8784ec8_4d79f4d8",
+      "range": {
+        "startLine": 5,
+        "startChar": 0,
+        "endLine": 5,
+        "endChar": 36
+      },
+      "revId": "de29ac18f06f6bf2aa918b96d2337f7f76be31eb",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "94c63d1a_99ba172b",
+        "filename": "index.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1139611
+      },
+      "writtenOn": "2021-11-09T17:47:13Z",
+      "side": 1,
+      "message": "s/or who are willing/as well as those that are willing/",
+      "revId": "de29ac18f06f6bf2aa918b96d2337f7f76be31eb",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "dee84108_291747f2",
+        "filename": "overview.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1139611
+      },
+      "writtenOn": "2021-11-09T17:47:13Z",
+      "side": 1,
+      "message": "s/THE/*the*/",
+      "revId": "de29ac18f06f6bf2aa918b96d2337f7f76be31eb",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "09f50890_e7bff34a",
+        "filename": "overview.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1139611
+      },
+      "writtenOn": "2021-11-09T17:47:13Z",
+      "side": 1,
+      "message": "Nit: weird wrapping.",
+      "revId": "de29ac18f06f6bf2aa918b96d2337f7f76be31eb",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ed419b86_98d7e291",
+        "filename": "overview.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1139611
+      },
+      "writtenOn": "2021-11-09T17:47:13Z",
+      "side": 1,
+      "message": "Nit: Weird wrapping",
       "revId": "de29ac18f06f6bf2aa918b96d2337f7f76be31eb",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
