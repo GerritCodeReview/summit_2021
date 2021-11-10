@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d3d55fcb_31a6f853",
+        "filename": "sessions/mono-repo-with-gerrit.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1054778
+      },
+      "writtenOn": "2021-11-10T17:37:44Z",
+      "side": 1,
+      "message": "nit: not needed",
+      "range": {
+        "startLine": 22,
+        "startChar": 9,
+        "endLine": 22,
+        "endChar": 10
+      },
+      "revId": "ea6e3f6d7b8ab8eef3d04c6a42b54a07cfa95585",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bf398f95_99223375",
+        "filename": "sessions/mono-repo-with-gerrit.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1054778
+      },
+      "writtenOn": "2021-11-10T17:37:44Z",
+      "side": 1,
+      "message": "What about replication issues? Or long indexing times for a big repo and a big patch?",
+      "range": {
+        "startLine": 24,
+        "startChar": 0,
+        "endLine": 24,
+        "endChar": 51
+      },
+      "revId": "ea6e3f6d7b8ab8eef3d04c6a42b54a07cfa95585",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
