@@ -54,6 +54,29 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "c1ed882c_9f52337f",
+        "filename": "conduct-policy.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1014252
+      },
+      "writtenOn": "2021-11-10T08:08:05Z",
+      "side": 1,
+      "message": "Nit:\nShouldn\u0027t there be commas separating the subordinate clause?\n\n    This includes, but is not limited to,",
+      "range": {
+        "startLine": 5,
+        "startChar": 0,
+        "endLine": 5,
+        "endChar": 37
+      },
+      "revId": "b8bff1613e8cb21a892687debe2c056d06d10dda",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "27270647_57827dd8",
         "filename": "index.md",
         "patchSetId": 12
