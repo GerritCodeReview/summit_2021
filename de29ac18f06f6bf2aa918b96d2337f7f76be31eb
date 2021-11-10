@@ -82,6 +82,24 @@
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "986ec8b0_5fcb3fa9",
+        "filename": "index.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-10T00:05:54Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "94c63d1a_99ba172b",
+      "revId": "de29ac18f06f6bf2aa918b96d2337f7f76be31eb",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "dee84108_291747f2",
@@ -99,6 +117,24 @@
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "da711586_f6a987b1",
+        "filename": "overview.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-10T00:05:54Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "dee84108_291747f2",
+      "revId": "de29ac18f06f6bf2aa918b96d2337f7f76be31eb",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "09f50890_e7bff34a",
@@ -112,6 +148,24 @@
       "writtenOn": "2021-11-09T17:47:13Z",
       "side": 1,
       "message": "Nit: weird wrapping.",
+      "revId": "de29ac18f06f6bf2aa918b96d2337f7f76be31eb",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a57536f9_0f45a658",
+        "filename": "overview.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-10T00:05:54Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "09f50890_e7bff34a",
       "revId": "de29ac18f06f6bf2aa918b96d2337f7f76be31eb",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
