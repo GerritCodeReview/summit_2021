@@ -75,6 +75,30 @@
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "79dfafaf_a8cf9cda",
+        "filename": "conduct-policy.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-10T08:57:41Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "c1ed882c_9f52337f",
+      "range": {
+        "startLine": 5,
+        "startChar": 0,
+        "endLine": 5,
+        "endChar": 37
+      },
+      "revId": "b8bff1613e8cb21a892687debe2c056d06d10dda",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "27270647_57827dd8",
@@ -88,6 +112,30 @@
       "writtenOn": "2021-11-10T06:46:42Z",
       "side": 1,
       "message": "The word \u0027online\u0027 sounds repetitive (as it already says it\u0027s virtual)",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 26
+      },
+      "revId": "b8bff1613e8cb21a892687debe2c056d06d10dda",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c1dbeffe_bb8ee383",
+        "filename": "index.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-10T08:57:41Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "27270647_57827dd8",
       "range": {
         "startLine": 9,
         "startChar": 0,
