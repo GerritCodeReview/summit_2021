@@ -24,6 +24,30 @@
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "0b13cc2c_5fc8662e",
+        "filename": "lightning-talks/forward-gerrit-events-to-jenkins-via-aws-kinesis.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1054778
+      },
+      "writtenOn": "2021-11-10T17:34:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "8509ed3d_89838ecb",
+      "range": {
+        "startLine": 4,
+        "startChar": 33,
+        "endLine": 4,
+        "endChar": 56
+      },
+      "revId": "adbe03af7da6753ba7d64f7c9db25f444e6578c9",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "f221afdd_8730ac0c",
@@ -37,6 +61,24 @@
       "writtenOn": "2021-11-10T11:57:28Z",
       "side": 1,
       "message": "Do you want to propose a quick poll as well?",
+      "revId": "adbe03af7da6753ba7d64f7c9db25f444e6578c9",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1a585fb1_db67fb62",
+        "filename": "lightning-talks/forward-gerrit-events-to-jenkins-via-aws-kinesis.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1054778
+      },
+      "writtenOn": "2021-11-10T17:34:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f221afdd_8730ac0c",
       "revId": "adbe03af7da6753ba7d64f7c9db25f444e6578c9",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
