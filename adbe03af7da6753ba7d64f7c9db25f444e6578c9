@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8509ed3d_89838ecb",
+        "filename": "lightning-talks/forward-gerrit-events-to-jenkins-via-aws-kinesis.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-10T11:57:28Z",
+      "side": 1,
+      "message": "is definitely the main one",
+      "range": {
+        "startLine": 4,
+        "startChar": 33,
+        "endLine": 4,
+        "endChar": 56
+      },
+      "revId": "adbe03af7da6753ba7d64f7c9db25f444e6578c9",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f221afdd_8730ac0c",
+        "filename": "lightning-talks/forward-gerrit-events-to-jenkins-via-aws-kinesis.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-10T11:57:28Z",
+      "side": 1,
+      "message": "Do you want to propose a quick poll as well?",
+      "revId": "adbe03af7da6753ba7d64f7c9db25f444e6578c9",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
