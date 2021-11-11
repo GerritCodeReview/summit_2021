@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2b1bf10e_be8c156a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1065256
+      },
+      "writtenOn": "2021-11-11T10:30:01Z",
+      "side": 1,
+      "message": "I am looking forward to this talk. We definitely see issues when dealing with huge mono-repos and are happy about input on how we can improve the situation.",
+      "revId": "54551536d1da4c242879188eb16370271960f6e0",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "89e2c8af_771ebf10",
+        "filename": "sessions/mono-repo-with-gerrit.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1065256
+      },
+      "writtenOn": "2021-11-11T10:30:01Z",
+      "side": 1,
+      "message": "18G for us",
+      "revId": "54551536d1da4c242879188eb16370271960f6e0",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f2301018_a5a02915",
+        "filename": "sessions/mono-repo-with-gerrit.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1065256
+      },
+      "writtenOn": "2021-11-11T10:30:01Z",
+      "side": 1,
+      "message": "Replication is definitely an issue for us, when dealing with large mono repos. We for example faced issues with replication delays of 2+ hours, when replication and git gc happened at the same time, which we could solve by not computing the bitmap indexes, which is a tradeoff. For another repository we weren\u0027t able to get replication to work with a reasonable replication delay at all, so that we can\u0027t use Gerrit replicas on different machines.",
+      "revId": "54551536d1da4c242879188eb16370271960f6e0",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
