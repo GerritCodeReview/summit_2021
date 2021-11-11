@@ -22,6 +22,30 @@
       },
       "revId": "d7e62e402241b8332bf9095666f01877a8942c0c",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2f105e4a_dbff57df",
+        "filename": "lightning-talks/forward-gerrit-events-to-jenkins-via-aws-kinesis.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1054778
+      },
+      "writtenOn": "2021-11-11T20:00:26Z",
+      "side": 1,
+      "message": "Ops, sorry...I think I pushed it by mistake.",
+      "parentUuid": "3d778b78_d80e8d97",
+      "range": {
+        "startLine": 4,
+        "startChar": 25,
+        "endLine": 4,
+        "endChar": 46
+      },
+      "revId": "d7e62e402241b8332bf9095666f01877a8942c0c",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
