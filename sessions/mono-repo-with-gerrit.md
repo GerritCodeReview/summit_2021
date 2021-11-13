@@ -12,21 +12,21 @@ significant difficulties:
 - Increasing performance of replication
 - Surviving the deadly "search-for-reuse" phase during git-upload-pack
 
-> Polls
+## Polls
 
-What is the size of the largest repo you have?
-- < 1GB
-- < 10GB
-- < 50GB
-- < 100GB
-- > 100GB
+> ### What is the size of the largest repo you have?
+> - around 1GB
+> - around 10GB
+> - around 50GB
+> - around 100GB
+> - over 100GB
 
-What is the most urgent problem for your mono-repos?
-- memory or disk consumption on the server
-- bandwidth consumption during git-upload-pack
-- long refs negotiations during git-upload-pack
-- huge binaries bloating the repository
-- long replication times
-- batch reindexing tasks piling up
+> ### What is the most urgent problem for your mono-repos?
+> - memory or disk consumption on the server
+> - bandwidth consumption during git-upload-pack
+> - long refs negotiations during git-upload-pack
+> - huge binaries bloating the repository
+> - long replication times
+> - batch reindexing tasks piling up
 
 *[Luca Milanesio, GerritForge, Gerrit Maintainer - Release Manager - Member of the ESC](/summit/2021/+/refs/heads/master/speakers.md#lmilanesio)*
