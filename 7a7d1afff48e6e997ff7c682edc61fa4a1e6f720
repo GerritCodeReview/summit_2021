@@ -50,6 +50,23 @@
       "message": "No problem, Luca. I left my entry in the schedule blank for now - happy for you to decide on the running order, I\u0027ll just block out the entire time for now.",
       "revId": "7a7d1afff48e6e997ff7c682edc61fa4a1e6f720",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e06cc15b_b1473ce4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1138037
+      },
+      "writtenOn": "2021-11-18T05:28:06Z",
+      "side": 1,
+      "message": "Having said that, if I could express a strong preference for speaking on the Thursday that would help with child care arrangements. Thank you!",
+      "revId": "7a7d1afff48e6e997ff7c682edc61fa4a1e6f720",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
