@@ -33,3 +33,7 @@ co-created [play-with-go.dev](https://play-with-go.dev), co-founded the [Go
 Tools Working Group](https://github.com/golang/go/wiki/golang-tools), is a
 regular contributor to the [Go](https://golang.org) project, and helps maintain
 various Go and CUE-based open source projects.
+
+### Shane McIntosh - University of Waterloo {#smcintosh}
+
+Shane is an associate professor at the [University of Waterloo](https://cs.uwaterloo.ca/), where he directs the Software Repository Excavation and Build Engineering Labs ([the Software REBELs](https://rebels.cs.uwaterloo.ca/)). Previously, he was an assistant professor with McGill University, where he held the Canada Research Chair in Software Release Engineering. He received the PhD from Queen's University, for which he was awarded the Governor General's Academic Gold Medal. In his research, he uses empirical methods to study software build systems, release engineering, and software quality.
