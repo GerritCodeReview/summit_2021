@@ -43,3 +43,14 @@ Shane is an associate professor at the [University of Waterloo](https://cs.uwate
 Patrick joined Google and the Gerrit project in 2016 working primarily on the backend. Since then, he has worked on making Gerrit faster and more stable as well as different features including (most recently) Submit Requirements.
 
 He is a Gerrit maintainer and a member of the Engineering Steering Committee.
+
+### Edwin Kempin - Google {#edwin-kempin}
+
+Edwin is a long-time Gerrit contributor. He joined the Gerrit project in 2010,
+became a maintainer in 2012 and assumed the role as community manager in 2019.
+
+Since 2015 he's working at Google in the Gerrit backend team that develops
+Gerrit core and maintains the Gerrit infrastructure at Google. Previously Edwin
+worked 10+ years at SAP where he was responsible for Gerrit development and
+hosting as well.
+
