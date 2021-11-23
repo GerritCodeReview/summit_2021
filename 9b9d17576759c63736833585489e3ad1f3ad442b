@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "e71ba609_ca4e8401",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-23T19:38:39Z",
+      "side": 1,
+      "message": "Looking forward to include Submit requirements in the release notes, yeah !",
+      "revId": "9b9d17576759c63736833585489e3ad1f3ad442b",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "6d173845_cf2387f0",
