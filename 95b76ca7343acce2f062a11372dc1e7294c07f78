@@ -16,6 +16,23 @@
       "message": "Yes, wonderful idea. Lots of people haven\u0027t seen the code-owners plugin yet and they\u0027ll be very pleased. Thanks for sharing this Edwin.",
       "revId": "95b76ca7343acce2f062a11372dc1e7294c07f78",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bd3fd8e4_6172c96e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1026112
+      },
+      "writtenOn": "2021-11-24T07:55:30Z",
+      "side": 1,
+      "message": "Can you resolve the merge conflict?",
+      "revId": "95b76ca7343acce2f062a11372dc1e7294c07f78",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
