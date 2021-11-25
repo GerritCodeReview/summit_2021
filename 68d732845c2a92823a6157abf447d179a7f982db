@@ -16,6 +16,23 @@
       "message": "@Jacek can you help with the review?",
       "revId": "68d732845c2a92823a6157abf447d179a7f982db",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d0e15279_175a5e78",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-25T09:56:49Z",
+      "side": 1,
+      "message": "Thanks @Matthias",
+      "revId": "68d732845c2a92823a6157abf447d179a7f982db",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
