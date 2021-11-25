@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "527dc1c7_4508fa64",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-25T21:36:47Z",
+      "side": 1,
+      "message": "@Shane is this slot compatible with your calendar?",
+      "revId": "e3f3784a41eaccf4d2a768e6d83f718d09aa4568",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
