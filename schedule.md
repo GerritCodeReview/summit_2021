@@ -21,7 +21,7 @@
 | Time                  | Session                                                                                 |
 |-----------------------|-----------------------------------------------------------------------------------------|
 |  8:00 PST / 17:00 CET | [How to survive with mono-repos in Gerrit](sessions/mono-repo-with-gerrit.md)           |
-|  8:30 PST / 17:30 CET | Session 5 - __available for proposals__ (may include 1 poll)                            |
+|  8:30 PST / 17:30 CET | [Promoting Situational Awareness in Code Review Platforms](sessions/promoting-situational-awareness-in-code-reviews.md) |
 |  9:00 PST / 18:00 CET | Session 6 - __available for proposals__ (may include 1 poll)                            |
 |  9:30 PST / 18:30 CET | Q&A with the maintainers (may include 1-2 polls)                                        |
 | 10:30 PST / 19:30 CET | Lightning talk 6 - __available for proposals__                                          |
