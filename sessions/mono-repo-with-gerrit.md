@@ -29,4 +29,4 @@ significant difficulties:
 > - long replication times
 > - batch reindexing tasks piling up
 
-*[Luca Milanesio, GerritForge, Gerrit Maintainer - Release Manager - Member of the ESC](/summit/2021/+/refs/heads/master/speakers.md#lmilanesio)*
+*[Luca Milanesio, GerritForge, Gerrit Maintainer - Release Manager - Member of the ESC](../speakers.md#lmilanesio)*
