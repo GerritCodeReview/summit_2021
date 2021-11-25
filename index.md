@@ -8,7 +8,7 @@ trunk-based development pipeline.
 
 ## A Virtual Summit
 
-The Gerrit Virtual User Summit & Hackathon 2021 will be held online only,
+The Gerrit Virtual User Summit 2021 will be held online only,
 to allow most of the community around the globe to attend and share their
 experience and ideas, and avoid the problems with the travelling restrictions
 due to the [COVID-19 pandemic](https://en.wikipedia.org/wiki/COVID-19).
