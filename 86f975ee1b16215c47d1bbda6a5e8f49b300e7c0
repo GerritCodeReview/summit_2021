@@ -50,6 +50,24 @@
       "message": "Sorry, I wasn\u0027t checking my email cus of the holiday. Do I have the correct permissions to rebase this onto master? I\u0027m getting an permission error from Gerrit when I\u0027m trying to push the rebase and I\u0027m not sure if I\u0027m doing something wrong on my end.",
       "revId": "86f975ee1b16215c47d1bbda6a5e8f49b300e7c0",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a505c2e0_758be189",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-25T22:04:39Z",
+      "side": 1,
+      "message": "Just push the rebase change to \u0027HEAD:refs/for/master\u0027 and it should work.",
+      "parentUuid": "37fbc3af_a9a2b7a2",
+      "revId": "86f975ee1b16215c47d1bbda6a5e8f49b300e7c0",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
