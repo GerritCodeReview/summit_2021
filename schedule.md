@@ -5,7 +5,7 @@
 | Time                  | Session                                                      |
 |-----------------------|--------------------------------------------------------------|
 |  8:00 PST / 17:00 CET | Welcome to the Virtual User Summit - KeyNote introduction    |
-|  8:10 PST / 17:10 CET | What's new in Gerrit v3.4/v3.5                               |
+|  8:10 PST / 17:10 CET | [What's new in Gerrit v3.4/v3.5](sessions/gerrit-3.4-3.5.md) |
 |  8:40 PST / 17:40 CET | Session 1 - __available for proposals__ (may include 1 poll) |
 |  9:10 PST / 18:10 CET | Submit Requirements: Waving goodbye to Prolog                |
 |  9:40 PST / 18:40 CET | Code Owners: Demo of the `code-owners` plugin                |
