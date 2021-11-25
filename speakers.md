@@ -54,3 +54,6 @@ Gerrit core and maintains the Gerrit infrastructure at Google. Previously Edwin
 worked 10+ years at SAP where he was responsible for Gerrit development and
 hosting as well.
 
+### Ian Gauthier - Flywheel.io {#igauthier}
+
+Ian is a recent Master's graduate from [McGill University](https://www.mcgill.ca/), where he studied Software Engineering with a particular focus on Software Modelling and Software Repository Mining. Ian currently works at Flywheel.io.
