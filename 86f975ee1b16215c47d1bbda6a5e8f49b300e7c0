@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5386eccc_9e283b5b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-25T00:28:42Z",
+      "side": 1,
+      "message": "Thanks for your talk proposal. Can you resolve the conflicts on speakers.md and rebase on master?",
+      "revId": "86f975ee1b16215c47d1bbda6a5e8f49b300e7c0",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
