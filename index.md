@@ -17,7 +17,6 @@ The 2-days Users Summit is open to all the members of the community as well as
 those that are willing to learn and adopt Gerrit Code Review in their
 development process.
 
-*Dates*
+*Dates of the Summit*
 
-- The Summit (open for all members of the Gerrit Community):
 [2nd-3rd December 2021](https://calendar.google.com/event?action=TEMPLATE&tmeid=Njcxc2EycDlkZG5tMzBla2oxbHAxZzYwcGYgZ29vZ2xlLmNvbV91YmIxcGxhNmlqNzg1b3FianI2MWg0dmRpc0Bn&tmsrc=google.com_ubb1pla6ij785oqbjr61h4vdis%40group.calendar.google.com)
