@@ -118,6 +118,30 @@
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "eb97ff0b_2bb4a8f4",
+        "filename": "lightning-talks/checks-ui.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1013302
+      },
+      "writtenOn": "2021-11-26T21:18:33Z",
+      "side": 1,
+      "message": "This was fixed before submission.",
+      "parentUuid": "8707850a_cf4a7429",
+      "range": {
+        "startLine": 5,
+        "startChar": 0,
+        "endLine": 5,
+        "endChar": 8
+      },
+      "revId": "5699f369c0ac7b5af649c93a5b876f3d43e7852c",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "0716c8c8_2b85e14b",
@@ -131,6 +155,24 @@
       "writtenOn": "2021-11-26T18:08:33Z",
       "side": 1,
       "message": "developers",
+      "revId": "5699f369c0ac7b5af649c93a5b876f3d43e7852c",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "be45d914_486b4da0",
+        "filename": "speakers.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 1013302
+      },
+      "writtenOn": "2021-11-26T21:18:33Z",
+      "side": 1,
+      "message": "Fixed in 324939: Fix typos, grammar and line wrapping on the speakers\u0027 list | https://gerrit-review.googlesource.com/c/summit/2021/+/324939",
+      "parentUuid": "0716c8c8_2b85e14b",
       "revId": "5699f369c0ac7b5af649c93a5b876f3d43e7852c",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
