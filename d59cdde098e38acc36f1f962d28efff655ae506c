@@ -110,6 +110,30 @@
       },
       "revId": "d59cdde098e38acc36f1f962d28efff655ae506c",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9c97abbf_2e2570cb",
+        "filename": "lightning-talks/xray-for-gerrit-in-aws.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-26T15:00:46Z",
+      "side": 1,
+      "message": "ah, right, because we mentioned the aws-gerrit project. Make sense.",
+      "parentUuid": "c33515f5_1dd463d4",
+      "range": {
+        "startLine": 6,
+        "startChar": 33,
+        "endLine": 6,
+        "endChar": 36
+      },
+      "revId": "d59cdde098e38acc36f1f962d28efff655ae506c",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
