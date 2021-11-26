@@ -57,3 +57,12 @@ hosting as well.
 ### Ian Gauthier - Flywheel.io {#igauthier}
 
 Ian is a recent Master's graduate from [McGill University](https://www.mcgill.ca/), where he studied Software Engineering with a particular focus on Software Modelling and Software Repository Mining. Ian currently works at Flywheel.io.
+
+### Marcin Czech - GerritForge {#mczech}
+
+Marcin is a Senior Software Engineer at GerritForge where he contributes to the
+OpenSource Gerrit Code Review project.
+
+Over the last two years he has been involved in the design and development of
+numerous parts of the Gerrit ecosystem, such as: Gerrit core, multi-site,
+events-broker(Kafka and AWS Kinesis) and pull-replication.
