@@ -24,6 +24,30 @@
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "748cedcf_b2ccf8e7",
+        "filename": "lightning-talks/forward-gerrit-events-to-jenkins-via-aws-kinesis.md",
+        "patchSetId": 9
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1054778
+      },
+      "writtenOn": "2021-11-26T15:33:47Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "0f4181de_667d9208",
+      "range": {
+        "startLine": 10,
+        "startChar": 0,
+        "endLine": 10,
+        "endChar": 1
+      },
+      "revId": "a334a3cf5b8ab35f4ca91ac01a4f465f396fa63e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d9771a51_5162d304",
@@ -37,6 +61,30 @@
       "writtenOn": "2021-11-25T00:33:04Z",
       "side": 1,
       "message": "nit: should be all in indented with \u0027\u003e\u0027\n\nExample:\n\n\u003e How do you integrate Jenkins with Gerrit?\n\u003e - Gerrit Trigger plugin\n\u003e - Gerrit Code Review plugin\n\u003e - Other",
+      "range": {
+        "startLine": 12,
+        "startChar": 0,
+        "endLine": 15,
+        "endChar": 7
+      },
+      "revId": "a334a3cf5b8ab35f4ca91ac01a4f465f396fa63e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d2422602_4c36f3ef",
+        "filename": "lightning-talks/forward-gerrit-events-to-jenkins-via-aws-kinesis.md",
+        "patchSetId": 9
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1054778
+      },
+      "writtenOn": "2021-11-26T15:33:47Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d9771a51_5162d304",
       "range": {
         "startLine": 12,
         "startChar": 0,
