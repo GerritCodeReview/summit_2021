@@ -41,6 +41,30 @@
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "b747ba24_b83f7379",
+        "filename": "lightning-talks/xray-for-gerrit-in-aws.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1072905
+      },
+      "writtenOn": "2021-11-26T14:59:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "041ab6a0_1e22752e",
+      "range": {
+        "startLine": 3,
+        "startChar": 56,
+        "endLine": 4,
+        "endChar": 6
+      },
+      "revId": "d59cdde098e38acc36f1f962d28efff655ae506c",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "9a2e0b27_d16f750c",
@@ -54,6 +78,30 @@
       "writtenOn": "2021-11-26T14:44:17Z",
       "side": 1,
       "message": "the Cloud, like AWS and GCloud.",
+      "range": {
+        "startLine": 6,
+        "startChar": 33,
+        "endLine": 6,
+        "endChar": 36
+      },
+      "revId": "d59cdde098e38acc36f1f962d28efff655ae506c",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c33515f5_1dd463d4",
+        "filename": "lightning-talks/xray-for-gerrit-in-aws.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1072905
+      },
+      "writtenOn": "2021-11-26T14:59:15Z",
+      "side": 1,
+      "message": "AWS-gerrit only refers to AWS not the cloud in general.\nI think this should stay as-is",
+      "parentUuid": "9a2e0b27_d16f750c",
       "range": {
         "startLine": 6,
         "startChar": 33,
