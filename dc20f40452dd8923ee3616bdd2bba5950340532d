@@ -24,6 +24,30 @@
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "683df9ae_d23857a9",
+        "filename": "sessions/pull-replication-plugin.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1083454
+      },
+      "writtenOn": "2021-11-26T11:26:53Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "39bfefd2_1f9f4f5d",
+      "range": {
+        "startLine": 9,
+        "startChar": 12,
+        "endLine": 9,
+        "endChar": 18
+      },
+      "revId": "dc20f40452dd8923ee3616bdd2bba5950340532d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "2c5aecda_5b4dd2c1",
@@ -60,6 +84,54 @@
       "writtenOn": "2021-11-26T11:01:27Z",
       "side": 1,
       "message": "nit: whitespace",
+      "range": {
+        "startLine": 12,
+        "startChar": 54,
+        "endLine": 12,
+        "endChar": 55
+      },
+      "revId": "dc20f40452dd8923ee3616bdd2bba5950340532d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d1141038_e4e8721e",
+        "filename": "sessions/pull-replication-plugin.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1083454
+      },
+      "writtenOn": "2021-11-26T11:26:53Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e0b37d73_2187ceb7",
+      "range": {
+        "startLine": 12,
+        "startChar": 54,
+        "endLine": 12,
+        "endChar": 55
+      },
+      "revId": "dc20f40452dd8923ee3616bdd2bba5950340532d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "355fe851_3285419f",
+        "filename": "sessions/pull-replication-plugin.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1083454
+      },
+      "writtenOn": "2021-11-26T11:26:53Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "2c5aecda_5b4dd2c1",
       "range": {
         "startLine": 12,
         "startChar": 54,
@@ -116,6 +188,54 @@
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "63a6cfda_41d4126e",
+        "filename": "sessions/pull-replication-plugin.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1083454
+      },
+      "writtenOn": "2021-11-26T11:26:53Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "b073f5eb_53c549d2",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 13,
+        "endChar": 1
+      },
+      "revId": "dc20f40452dd8923ee3616bdd2bba5950340532d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "07f057ad_e41b43ae",
+        "filename": "sessions/pull-replication-plugin.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1083454
+      },
+      "writtenOn": "2021-11-26T11:26:53Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "123765dd_7f582bd7",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 13,
+        "endChar": 1
+      },
+      "revId": "dc20f40452dd8923ee3616bdd2bba5950340532d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "ee6bf205_cf15a087",
@@ -129,6 +249,30 @@
       "writtenOn": "2021-11-26T10:59:24Z",
       "side": 1,
       "message": "Polls",
+      "range": {
+        "startLine": 16,
+        "startChar": 3,
+        "endLine": 16,
+        "endChar": 8
+      },
+      "revId": "dc20f40452dd8923ee3616bdd2bba5950340532d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3ca6ec70_ccfdd51a",
+        "filename": "sessions/pull-replication-plugin.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1083454
+      },
+      "writtenOn": "2021-11-26T11:26:53Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ee6bf205_cf15a087",
       "range": {
         "startLine": 16,
         "startChar": 3,
@@ -162,6 +306,30 @@
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "39d00a98_976628a5",
+        "filename": "sessions/pull-replication-plugin.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1083454
+      },
+      "writtenOn": "2021-11-26T11:26:53Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3d643067_64686cad",
+      "range": {
+        "startLine": 17,
+        "startChar": 0,
+        "endLine": 23,
+        "endChar": 14
+      },
+      "revId": "dc20f40452dd8923ee3616bdd2bba5950340532d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "1bfc30f6_cd49730a",
@@ -175,6 +343,30 @@
       "writtenOn": "2021-11-26T10:59:24Z",
       "side": 1,
       "message": "don\u0027t forge the online external-ids case-insensitive migration, the latest achievement 👍",
+      "range": {
+        "startLine": 88,
+        "startChar": 57,
+        "endLine": 88,
+        "endChar": 58
+      },
+      "revId": "dc20f40452dd8923ee3616bdd2bba5950340532d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "677291ae_b25c3ccc",
+        "filename": "speakers.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 88,
+      "author": {
+        "id": 1083454
+      },
+      "writtenOn": "2021-11-26T11:26:53Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1bfc30f6_cd49730a",
       "range": {
         "startLine": 88,
         "startChar": 57,
