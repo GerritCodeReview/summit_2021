@@ -77,3 +77,13 @@ happy and productive.
 His largest contributions to Gerrit so far were the Attention Set, the new
 Checks API/UI (see lightning talks) and heading large infrastrucutre migrations
 such as JavaScript->TypeScript and Polymer1->2->3->Lit.
+
+### Marcin Czech - GerritForge {#mczech}
+
+Marcin is a Senior Software Engineer at GerritForge where he contributes to the
+OpenSource Gerrit Code Review project.
+
+Over the last two years he has been involved in the design and development of
+numerous parts of the Gerrit ecosystem, such as: Gerrit core, multi-site,
+events-broker(Kafka and AWS Kinesis), pull-replication and external-ids
+online migration.
