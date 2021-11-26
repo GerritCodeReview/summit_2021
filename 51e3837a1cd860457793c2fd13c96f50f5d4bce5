@@ -24,6 +24,30 @@
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "4d584ede_c87b837d",
+        "filename": "lightning-talks/xray-for-gerrit-in-aws.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1072905
+      },
+      "writtenOn": "2021-11-26T11:26:35Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "2ea91657_763fcb84",
+      "range": {
+        "startLine": 5,
+        "startChar": 60,
+        "endLine": 5,
+        "endChar": 69
+      },
+      "revId": "51e3837a1cd860457793c2fd13c96f50f5d4bce5",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "531ebfdb_fb488197",
@@ -37,6 +61,24 @@
       "writtenOn": "2021-11-26T11:17:09Z",
       "side": 1,
       "message": "nit: s/maintaining/maintain/?",
+      "revId": "51e3837a1cd860457793c2fd13c96f50f5d4bce5",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2512ecd1_d7ebef6b",
+        "filename": "lightning-talks/xray-for-gerrit-in-aws.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1072905
+      },
+      "writtenOn": "2021-11-26T11:26:35Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "531ebfdb_fb488197",
       "revId": "51e3837a1cd860457793c2fd13c96f50f5d4bce5",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
@@ -77,6 +119,54 @@
       "writtenOn": "2021-11-26T11:17:09Z",
       "side": 1,
       "message": "nit: not sure if the prefix should stay...",
+      "range": {
+        "startLine": 27,
+        "startChar": 26,
+        "endLine": 27,
+        "endChar": 44
+      },
+      "revId": "51e3837a1cd860457793c2fd13c96f50f5d4bce5",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "64baf23f_9d29a076",
+        "filename": "schedule.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1072905
+      },
+      "writtenOn": "2021-11-26T11:26:35Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "34010135_e559cdeb",
+      "range": {
+        "startLine": 27,
+        "startChar": 45,
+        "endLine": 27,
+        "endChar": 71
+      },
+      "revId": "51e3837a1cd860457793c2fd13c96f50f5d4bce5",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8b2218ca_439143a7",
+        "filename": "schedule.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1072905
+      },
+      "writtenOn": "2021-11-26T11:26:35Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e907b903_476aeac5",
       "range": {
         "startLine": 27,
         "startChar": 26,
