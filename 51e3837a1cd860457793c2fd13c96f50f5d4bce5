@@ -1,0 +1,90 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2ea91657_763fcb84",
+        "filename": "lightning-talks/xray-for-gerrit-in-aws.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1025452
+      },
+      "writtenOn": "2021-11-26T11:17:09Z",
+      "side": 1,
+      "message": "nit: s/deploying/deploy/?",
+      "range": {
+        "startLine": 5,
+        "startChar": 60,
+        "endLine": 5,
+        "endChar": 69
+      },
+      "revId": "51e3837a1cd860457793c2fd13c96f50f5d4bce5",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "531ebfdb_fb488197",
+        "filename": "lightning-talks/xray-for-gerrit-in-aws.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1025452
+      },
+      "writtenOn": "2021-11-26T11:17:09Z",
+      "side": 1,
+      "message": "nit: s/maintaining/maintain/?",
+      "revId": "51e3837a1cd860457793c2fd13c96f50f5d4bce5",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "34010135_e559cdeb",
+        "filename": "schedule.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1025452
+      },
+      "writtenOn": "2021-11-26T11:17:09Z",
+      "side": 1,
+      "message": "it should link to the talk description page, right?",
+      "range": {
+        "startLine": 27,
+        "startChar": 45,
+        "endLine": 27,
+        "endChar": 71
+      },
+      "revId": "51e3837a1cd860457793c2fd13c96f50f5d4bce5",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e907b903_476aeac5",
+        "filename": "schedule.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1025452
+      },
+      "writtenOn": "2021-11-26T11:17:09Z",
+      "side": 1,
+      "message": "nit: not sure if the prefix should stay...",
+      "range": {
+        "startLine": 27,
+        "startChar": 26,
+        "endLine": 27,
+        "endChar": 44
+      },
+      "revId": "51e3837a1cd860457793c2fd13c96f50f5d4bce5",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
