@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "32cc0797_fc84a404",
+        "filename": "lightning-talks/xray-for-gerrit-in-aws.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1054778
+      },
+      "writtenOn": "2021-11-26T15:03:13Z",
+      "side": 1,
+      "message": "What about a poll at the end?\n\nYou could ask:\n\n* Do you use any other tracing system (Dynatrace, ...)?\n* How do you cross-reference calls among the different parts of the system (LB, Gerrit, brokers)?",
+      "revId": "31998ea4748e9fee6f965bd33c82fa5c9c3dc769",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
