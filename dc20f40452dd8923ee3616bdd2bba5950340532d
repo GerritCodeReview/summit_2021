@@ -3,6 +3,29 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "39bfefd2_1f9f4f5d",
+        "filename": "sessions/pull-replication-plugin.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1025452
+      },
+      "writtenOn": "2021-11-26T11:01:27Z",
+      "side": 1,
+      "message": "nit: s/issues/scenario/?",
+      "range": {
+        "startLine": 9,
+        "startChar": 12,
+        "endLine": 9,
+        "endChar": 18
+      },
+      "revId": "dc20f40452dd8923ee3616bdd2bba5950340532d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "2c5aecda_5b4dd2c1",
         "filename": "sessions/pull-replication-plugin.md",
         "patchSetId": 4
@@ -26,6 +49,29 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "e0b37d73_2187ceb7",
+        "filename": "sessions/pull-replication-plugin.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1025452
+      },
+      "writtenOn": "2021-11-26T11:01:27Z",
+      "side": 1,
+      "message": "nit: whitespace",
+      "range": {
+        "startLine": 12,
+        "startChar": 54,
+        "endLine": 12,
+        "endChar": 55
+      },
+      "revId": "dc20f40452dd8923ee3616bdd2bba5950340532d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "123765dd_7f582bd7",
         "filename": "sessions/pull-replication-plugin.md",
         "patchSetId": 4
@@ -37,6 +83,29 @@
       "writtenOn": "2021-11-26T10:59:24Z",
       "side": 1,
       "message": "nit: empty space",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 13,
+        "endChar": 1
+      },
+      "revId": "dc20f40452dd8923ee3616bdd2bba5950340532d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b073f5eb_53c549d2",
+        "filename": "sessions/pull-replication-plugin.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1025452
+      },
+      "writtenOn": "2021-11-26T11:01:27Z",
+      "side": 1,
+      "message": "nit: whitespace",
       "range": {
         "startLine": 13,
         "startChar": 0,
