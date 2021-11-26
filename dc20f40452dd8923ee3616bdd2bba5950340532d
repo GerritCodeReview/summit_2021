@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2c5aecda_5b4dd2c1",
+        "filename": "sessions/pull-replication-plugin.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-26T10:59:24Z",
+      "side": 1,
+      "message": "nit: empty space",
+      "range": {
+        "startLine": 12,
+        "startChar": 54,
+        "endLine": 12,
+        "endChar": 55
+      },
+      "revId": "dc20f40452dd8923ee3616bdd2bba5950340532d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "123765dd_7f582bd7",
+        "filename": "sessions/pull-replication-plugin.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-26T10:59:24Z",
+      "side": 1,
+      "message": "nit: empty space",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 13,
+        "endChar": 1
+      },
+      "revId": "dc20f40452dd8923ee3616bdd2bba5950340532d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ee6bf205_cf15a087",
+        "filename": "sessions/pull-replication-plugin.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-26T10:59:24Z",
+      "side": 1,
+      "message": "Polls",
+      "range": {
+        "startLine": 16,
+        "startChar": 3,
+        "endLine": 16,
+        "endChar": 8
+      },
+      "revId": "dc20f40452dd8923ee3616bdd2bba5950340532d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3d643067_64686cad",
+        "filename": "sessions/pull-replication-plugin.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-26T10:59:24Z",
+      "side": 1,
+      "message": "This needs to be a quoted section and, therefore, you cannot use the quote \u0027\u003e\u0027 in the text.\n\nIt should be instead:\n\n\u003e ## What is your average replication time?\n\u003e - less than 1 second\n\u003e - around 30 seconds\n\u003e - around 1 minute\n\u003e - around 5 minutes\n\u003e - around 10 minutes\n\u003e - over 10 minutes\n\nI reckon most of the people will chose the last one: why not using more progressive numbers? (e.g. 1 second, 10 seconds, 1 minute, 10 minutes, 30 minutes)",
+      "range": {
+        "startLine": 17,
+        "startChar": 0,
+        "endLine": 23,
+        "endChar": 14
+      },
+      "revId": "dc20f40452dd8923ee3616bdd2bba5950340532d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1bfc30f6_cd49730a",
+        "filename": "speakers.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 88,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-26T10:59:24Z",
+      "side": 1,
+      "message": "don\u0027t forge the online external-ids case-insensitive migration, the latest achievement 👍",
+      "range": {
+        "startLine": 88,
+        "startChar": 57,
+        "endLine": 88,
+        "endChar": 58
+      },
+      "revId": "dc20f40452dd8923ee3616bdd2bba5950340532d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
