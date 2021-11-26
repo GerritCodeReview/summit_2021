@@ -93,6 +93,46 @@
       },
       "revId": "5699f369c0ac7b5af649c93a5b876f3d43e7852c",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8707850a_cf4a7429",
+        "filename": "lightning-talks/checks-ui.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1139611
+      },
+      "writtenOn": "2021-11-26T18:08:33Z",
+      "side": 1,
+      "message": "explaining",
+      "range": {
+        "startLine": 5,
+        "startChar": 0,
+        "endLine": 5,
+        "endChar": 8
+      },
+      "revId": "5699f369c0ac7b5af649c93a5b876f3d43e7852c",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0716c8c8_2b85e14b",
+        "filename": "speakers.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 1139611
+      },
+      "writtenOn": "2021-11-26T18:08:33Z",
+      "side": 1,
+      "message": "developers",
+      "revId": "5699f369c0ac7b5af649c93a5b876f3d43e7852c",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
