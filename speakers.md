@@ -33,3 +33,12 @@ co-created [play-with-go.dev](https://play-with-go.dev), co-founded the [Go
 Tools Working Group](https://github.com/golang/go/wiki/golang-tools), is a
 regular contributor to the [Go](https://golang.org) project, and helps maintain
 various Go and CUE-based open source projects.
+
+### Marcin Czech - GerritForge {#mczech}
+
+Marcin is a Senior Software Engineer at GerritForge where he contributes to the
+OpenSource Gerrit Code Review project.
+
+Over the last two years he has been involved in the design and development of
+numerous parts of the Gerrit ecosystem, such as: Gerrit core, multi-site,
+events-broker(Kafka and AWS Kinesis) and pull-replication.
