@@ -77,3 +77,12 @@ happy and productive.
 His largest contributions to Gerrit so far were the Attention Set, the new
 Checks API/UI (see lightning talks) and heading large infrastrucutre migrations
 such as JavaScript->TypeScript and Polymer1->2->3->Lit.
+
+### Antonio Barone - GerritForge {#syntonyze}
+
+[LinkedIn](https://uk.linkedin.com/in/anbarone/)
+
+Antonio joined GerritForge in 2018. Since then, he has contributed to the design
+and development of various tools and plugins for Gerrit, such as DevOps
+analytics, multi-site and chronicle-map. Recently, he zeroed in on the
+integration of Gerrit with the cloud.
