@@ -57,3 +57,13 @@ hosting as well.
 ### Ian Gauthier - Flywheel.io {#igauthier}
 
 Ian is a recent Master's graduate from [McGill University](https://www.mcgill.ca/), where he studied Software Engineering with a particular focus on Software Modelling and Software Repository Mining. Ian currently works at Flywheel.io.
+
+### Ben Rohlfs - Google {#brohlfs}
+
+Ben was the Gerrit frontend tech lead from 2019-2021 and is a maintainer since
+2019. He loves working on web apps for delevopers and tries to make Gerrit users
+happy and productive.
+
+His largest contributions to Gerrit so far were the Attention Set, the new
+Checks API/UI (see lightning talks) and heading large infrastrucutre migrations
+such as JavaScript->TypeScript and Polymer1->2->3->Lit.
