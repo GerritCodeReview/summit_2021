@@ -57,3 +57,12 @@ hosting as well.
 ### Ian Gauthier - Flywheel.io {#igauthier}
 
 Ian is a recent Master's graduate from [McGill University](https://www.mcgill.ca/), where he studied Software Engineering with a particular focus on Software Modelling and Software Repository Mining. Ian currently works at Flywheel.io.
+
+### Antonio Barone - GerritForge {#syntonyze}
+
+[LinkedIn](https://uk.linkedin.com/in/anbarone/)
+
+Antonio joined GerritForge in 2018. Since then, he has contributed to the design
+and development of various tools and plugins for Gerrit, such as DevOps
+analytics, multi-site and chronicle-map. Recently, he zeroed in on the
+integration of Gerrit with the cloud.
