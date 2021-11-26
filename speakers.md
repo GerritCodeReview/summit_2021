@@ -54,3 +54,11 @@ Gerrit core and maintains the Gerrit infrastructure at Google. Previously Edwin
 worked 10+ years at SAP where he was responsible for Gerrit development and
 hosting as well.
 
+### Antonio Barone - GerritForge {#syntonyze}
+
+[LinkedIn](https://uk.linkedin.com/in/anbarone/)
+
+Antonio joined GerritForge in 2018. Since then, he has contributed to the design
+and development of various tools and plugins for Gerrit, such as DevOps
+analytics, multi-site and chronicle-map. Recently, he zeroed in on the
+integration of Gerrit with the cloud.
