@@ -1,0 +1,67 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8602006e_50a4e4d1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-26T14:44:17Z",
+      "side": 1,
+      "message": "Can you rebase and resolve conflicts?",
+      "revId": "d59cdde098e38acc36f1f962d28efff655ae506c",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "041ab6a0_1e22752e",
+        "filename": "lightning-talks/xray-for-gerrit-in-aws.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-26T14:44:17Z",
+      "side": 1,
+      "message": "Can you point to our 2021 pledge at https://gitenterprise.me/2021/01/04/2021-whats-cooking-in-gerritforge/?",
+      "range": {
+        "startLine": 3,
+        "startChar": 56,
+        "endLine": 4,
+        "endChar": 6
+      },
+      "revId": "d59cdde098e38acc36f1f962d28efff655ae506c",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9a2e0b27_d16f750c",
+        "filename": "lightning-talks/xray-for-gerrit-in-aws.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-11-26T14:44:17Z",
+      "side": 1,
+      "message": "the Cloud, like AWS and GCloud.",
+      "range": {
+        "startLine": 6,
+        "startChar": 33,
+        "endLine": 6,
+        "endChar": 36
+      },
+      "revId": "d59cdde098e38acc36f1f962d28efff655ae506c",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
