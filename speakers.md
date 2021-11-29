@@ -132,3 +132,9 @@ Adithya joined the Qualcomm Gerrit team in June 2020 and quickly started
 contributing changes. So far he's explored the replication plugin, 2.16
 and earlier schema migrations, plugin provided change query attributes,
 JGit, and offline reindexing.
+
+### Milutin Kristofic - Google {#milutin}
+
+Milutin joined the Gerrit frontend team in June 2019 and has been a maintainer
+since December 2020. Milutin was mostly working on better A11y and optimizing
+performance.

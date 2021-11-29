@@ -12,6 +12,14 @@ Luca gives an overview of the major improvements introduced:
 - Performance improvements
 - Requests deadlines and cancellations
 
+Milutin gives an quick overview of latest UI improvements:
+ - Improved Comments Tab
+ - Comments Summary
+ - Ported Comments
+ - New Change metadata
+ - A11y improvements
+ - Performance improvements
+
 # Polls
 
 > ## What version are you currently running in production?
@@ -34,3 +42,4 @@ Luca gives an overview of the major improvements introduced:
 > - Breaking changes
 
 *[Luca Milanesio, GerritForge, Gerrit Maintainer - Release Manager - Member of the ESC](../speakers.md#lmilanesio)*
+*[Milutin Kristofic, Google](../speakers.md#milutin)*
