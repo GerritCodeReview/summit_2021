@@ -107,3 +107,28 @@ Antonio joined GerritForge in 2018. Since then, he has contributed to the design
 and development of various tools and plugins for Gerrit, such as DevOps
 analytics, multi-site and chronicle-map. Recently, he zeroed in on the
 integration of Gerrit with the cloud.
+
+### Martin Fick - Qualcomm (#mfick)
+
+Martin made his first Gerrit contribution back in June 2010 and just
+over a year later became one of the first two maintainers added to the
+project (Saša Živkov being the other). Since then he's continued to
+improve Gerrit workflows, plugin extendability, reliability, and
+performance. He especially focuses on multi-primary functionality and
+compatibility.
+
+### Kaushik Lingarkar - Qualcomm (#kaushikl)
+
+Kaushik joined Qualcomm over 12 years ago and has had a variety of
+roles, often related to Gerrit or workflows using Gerrit. He made his
+first Gerrit contribution in 2013 and has made many more in 2020 and
+2021 as a full-time member of the Qualcomm Gerrit team. His major focus
+over the past year has been improving the performance of upgrading a
+very large 2.7 fork Gerrit site to vanilla 3.4+.
+
+### Adithya Chakilam - Qualcomm (#achakila)
+
+Adithya joined the Qualcomm Gerrit team in June 2020 and quickly started
+contributing changes. So far he's explored the replication plugin, 2.16
+and earlier schema migrations, plugin provided change query attributes,
+JGit, and offline reindexing.

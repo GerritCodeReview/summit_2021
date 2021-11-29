@@ -11,9 +11,7 @@
 |  9:40 PST / 18:40 CET | [Code Owners: Demo of the `code-owners` plugin](sessions/code-owners.md)                |
 | 10:10 PST / 19:10 CET | [Using GitHub Actions with GerritHub](lightning-talks/gerrithub-and-github-actions.md)  |
 | 10:20 PDT / 19:20 CET | [Is Historical Data An Appropriate Benchmark For Review Recommendation Systems?](lightning-talks/Is-Historical-Data-an-Appropriate-Benchmark-For-Review-Recommendation-Systems.md) |
-| 10:30 PDT / 19:30 CET | Lightning talk 3 - __available for proposals__                                          |
-| 10:40 PDT / 19:40 CET | Lightning talk 4 - __available for proposals__                                          |
-| 10:50 PDT / 19:50 CET | Lightning talk 5 - __available for proposals__                                          |
+| 10:30 PDT / 19:30 CET | [Qualcomm 2.7 -> 3.4+ Data Upgrade Status, Issues, and Plans](sessions/2.7-to-3.4-upgrade-improvements.md) |
 | 11:00 PDT / 20:00 CET | End of Day 1                                                                            |
 
 ### Friday, 3rd December
