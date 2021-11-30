@@ -10,9 +10,9 @@
 |  9:10 PST / 18:10 CET | [Submit Requirements: Waving goodbye to Prolog](sessions/submit-requirements.md)        |
 |  9:40 PST / 18:40 CET | [Code Owners: Demo of the `code-owners` plugin](sessions/code-owners.md)                |
 | 10:10 PST / 19:10 CET | [Using GitHub Actions with GerritHub](lightning-talks/gerrithub-and-github-actions.md)  |
-| 10:20 PDT / 19:20 CET | [Is Historical Data An Appropriate Benchmark For Review Recommendation Systems?](lightning-talks/Is-Historical-Data-an-Appropriate-Benchmark-For-Review-Recommendation-Systems.md) |
-| 10:30 PDT / 19:30 CET | [Qualcomm 2.7 -> 3.4+ Data Upgrade Status, Issues, and Plans](sessions/2.7-to-3.4-upgrade-improvements.md) |
-| 11:00 PDT / 20:00 CET | End of Day 1                                                                            |
+| 10:20 PST / 19:20 CET | [Is Historical Data An Appropriate Benchmark For Review Recommendation Systems?](lightning-talks/Is-Historical-Data-an-Appropriate-Benchmark-For-Review-Recommendation-Systems.md) |
+| 10:30 PST / 19:30 CET | [Qualcomm 2.7 -> 3.4+ Data Upgrade Status, Issues, and Plans](sessions/2.7-to-3.4-upgrade-improvements.md) |
+| 11:00 PST / 20:00 CET | End of Day 1                                                                            |
 
 ### Friday, 3rd December
 
@@ -23,4 +23,4 @@
 |  9:00 PST / 18:00 CET | [An introduction to the pull-replication plugin](sessions/pull-replication-plugin.md)                              |
 |  9:30 PST / 18:30 CET | [X-RAY for Gerrit in AWS](lightning-talks/xray-for-gerrit-in-aws.md)                    |
 | 10:00 PST / 19:00 CET | Q&A with the maintainers (may include 1-2 polls)                                        |
-| 11:00 PDT / 20:00 CET | End of Day 2                                                                            |
+| 11:00 PST / 20:00 CET | End of Day 2                                                                            |
