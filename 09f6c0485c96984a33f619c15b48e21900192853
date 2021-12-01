@@ -34,6 +34,23 @@
       "parentUuid": "c1941298_5f28bed8",
       "revId": "09f6c0485c96984a33f619c15b48e21900192853",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "16b0a68a_259965f6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-12-01T16:01:11Z",
+      "side": 1,
+      "message": "@Milutin can you include this as part of the what\u0027s new in Gerrit 3.4/3.5 presentation?\n(sessions/gerrit-3.4-3.5.md)",
+      "revId": "09f6c0485c96984a33f619c15b48e21900192853",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
