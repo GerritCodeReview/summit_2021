@@ -24,4 +24,7 @@ At the end of the talk I would like to show the pull-replication plugin in actio
 > - around 30 minutes
 > - over 30 minutes
 
+- [Slides](https://storage.googleapis.com/gerrit-talks/summit/2021/An%20Introduction%20to%20pull-replication%20plugin.pdf)
+- [Video](https://youtu.be/6rubGQE9v2E)
+
 *[Marcin Czech, GerritForge](../speakers.md#mczech)*

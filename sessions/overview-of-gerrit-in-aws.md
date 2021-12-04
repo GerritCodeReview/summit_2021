@@ -10,4 +10,7 @@ This talk will give an overview of what AWS-Gerrit actually is, motivate its
 usage and provide an overview of its current status. In the second part, we will
 showcase and live demo some of AWS-Gerrit main features.
 
+- [Slides](https://storage.googleapis.com/gerrit-talks/summit/2021/Overview%20of%20Gerrit%20in%20AWS-03-12-2021.pdf)
+- [Video](https://youtu.be/FSH0wykytG8)
+
 *[Antonio Barone, GerritForge](../speakers.md#syntonyze)*
