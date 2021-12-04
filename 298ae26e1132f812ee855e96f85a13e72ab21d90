@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "87d77174_84abc5fc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-12-04T19:02:58Z",
+      "side": 1,
+      "message": "Can you guys upload your slides to the Google\u0027s bucket for the talks?\n(gerrit-talks/summit/2021)\n\n@Ian I believe I don\u0027t have access to that, but you can either send them to me and I\u0027ll upload them, OR just publish them somewhere public and link them from your talk details.\n\nThanks again for having presented at the Gerrit Virtual User Summit 2021!",
+      "revId": "298ae26e1132f812ee855e96f85a13e72ab21d90",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
