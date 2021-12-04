@@ -29,4 +29,7 @@ significant difficulties:
 > - long replication times
 > - batch reindexing tasks piling up
 
+- [Slides](https://storage.googleapis.com/gerrit-talks/summit/2021/TracklingMonoRepos-with-Gerrit.pdf)
+- [Video](https://youtu.be/eANday2TsOk)
+
 *[Luca Milanesio, GerritForge, Gerrit Maintainer - Release Manager - Member of the ESC](../speakers.md#lmilanesio)*

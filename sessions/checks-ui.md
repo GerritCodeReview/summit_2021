@@ -18,5 +18,8 @@ explain how you can hook up your own CI systems with this new API.
 > - Somewhat addressing our needs.
 > - Not addressing our needs at all.
 
+- [Slides](https://storage.googleapis.com/gerrit-talks/summit/2021/Checks%20UI%20-%20Slides.pdf)
+- [Video](https://youtu.be/IQO_wbtVKp4)
+
 *[Delphine Carlson, Google](../speakers.md#delphinec)*
 *[Ben Rohlfs, Google](../speakers.md#brohlfs)*
