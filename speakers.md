@@ -138,3 +138,9 @@ JGit, and offline reindexing.
 Milutin joined the Gerrit frontend team in June 2019 and has been a maintainer
 since December 2020. Milutin was mostly working on better A11y and optimizing
 performance.
+
+### Nasser Grainawi - Qualcomm {#nasserg}
+
+Nasser has been in the Gerrit world since 2008 and has been a maintainer since
+November 2020. He's the lead of the Qualcomm Gerrit team and has been a
+community manager since May 2021.

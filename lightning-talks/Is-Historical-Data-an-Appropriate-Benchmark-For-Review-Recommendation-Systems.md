@@ -7,5 +7,7 @@ In this talk, I will present research performed to evaluate the extent to which 
 
 We find that history-based evaluation is far more pessimistic than optimistic in the context of Gerrit review recommendations. We find that in a majority of cases (74%), changes labeled as ‘incorrect’ by historical data were actually apt suggestions for reviewers.
 
+- Slides (TO BE PUBLISHED)
+- [Video](https://youtu.be/UcpU8m0awE8)
 
 *[Ian Gauthier, Flywheel.io](../speakers.md#igauthier)*

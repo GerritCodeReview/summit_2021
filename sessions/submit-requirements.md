@@ -9,4 +9,7 @@ as flexible.
 In this talk, I'll demo the new submit requirements and talk about
 how you can wave goodbye to Prolog, too.
 
+- Slides (TO BE PUBLISHED)
+- [Video](https://youtu.be/AUtfUhBws9w)
+
 *[Patrick Hiesel, Google](../speakers.md#patrick-hiesel)*

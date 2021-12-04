@@ -41,5 +41,8 @@ Milutin gives an quick overview of latest UI improvements:
 > - Lack of support during the upgrade
 > - Breaking changes
 
+- [Slides](https://storage.googleapis.com/gerrit-talks/summit/2021/Whats.New.in.Gerrit.3.4-and.3.5.pdf)
+- [Video](https://youtu.be/3_ZFLSSBd3I)
+
 *[Luca Milanesio, GerritForge, Gerrit Maintainer - Release Manager - Member of the ESC](../speakers.md#lmilanesio)*
 *[Milutin Kristofic, Google](../speakers.md#milutin)*

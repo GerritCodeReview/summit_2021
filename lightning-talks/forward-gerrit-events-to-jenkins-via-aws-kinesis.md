@@ -21,4 +21,7 @@ allowing the consumption of Gerrit stream events from Kinesis.
 > - loosing events when Jenkins restarts
 > - difficult to debug issues
 
+- [Slides](https://storage.googleapis.com/gerrit-talks/summit/2021/Virtual%20Gerrit%20Summit%202021_%20Forward%20Gerrit%20events%20to%20Jenkins%20via%20AWS%20Kinesis.pdf)
+- [Video](https://youtu.be/XLuL-EKFRbc)
+
 *[Fabio Ponciroli, GerritForge](../speakers.md#fponciroli)*
