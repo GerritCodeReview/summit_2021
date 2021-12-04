@@ -21,4 +21,7 @@ allowing the consumption of Gerrit stream events from Kinesis.
 > - loosing events when Jenkins restarts
 > - difficult to debug issues
 
+- Slides (TO BE PUBLISHED)
+- [Video](https://youtu.be/XLuL-EKFRbc)
+
 *[Fabio Ponciroli, GerritForge](../speakers.md#fponciroli)*
