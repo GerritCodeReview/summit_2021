@@ -16,6 +16,23 @@
       "message": "Had some trouble with the web edit saving, didn\u0027t realize the slides link wasn\u0027t there. Fixed now.",
       "revId": "d18ca47a5031e9f140bd554839ddc799657a6956",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cee6cc38_f844f0cf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2021-12-15T21:03:25Z",
+      "side": 1,
+      "message": "Thanks, @Nasser.\n\n@Patrick @Ian can you also publish your slides?",
+      "revId": "d18ca47a5031e9f140bd554839ddc799657a6956",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
