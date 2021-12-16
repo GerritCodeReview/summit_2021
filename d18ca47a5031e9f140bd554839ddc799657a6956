@@ -33,6 +33,29 @@
       "message": "Thanks, @Nasser.\n\n@Patrick @Ian can you also publish your slides?",
       "revId": "d18ca47a5031e9f140bd554839ddc799657a6956",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e65f3cbd_4b64a919",
+        "filename": "sessions/2.7-to-3.4-upgrade-improvements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1004034
+      },
+      "writtenOn": "2021-12-16T01:33:15Z",
+      "side": 1,
+      "message": "remove these options ?",
+      "range": {
+        "startLine": 11,
+        "startChar": 128,
+        "endLine": 11,
+        "endChar": 164
+      },
+      "revId": "d18ca47a5031e9f140bd554839ddc799657a6956",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
