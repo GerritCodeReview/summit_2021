@@ -56,6 +56,30 @@
       },
       "revId": "d18ca47a5031e9f140bd554839ddc799657a6956",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c33de936_ed02184a",
+        "filename": "sessions/2.7-to-3.4-upgrade-improvements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2022-01-05T01:31:51Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e65f3cbd_4b64a919",
+      "range": {
+        "startLine": 11,
+        "startChar": 128,
+        "endLine": 11,
+        "endChar": 164
+      },
+      "revId": "d18ca47a5031e9f140bd554839ddc799657a6956",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
